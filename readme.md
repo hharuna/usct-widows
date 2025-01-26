@@ -1,35 +1,36 @@
-# Blender
+# U.S.C.T. Widows Project: African-American Women during Reconstruction (1860-1920)
+
+## Project Summary
+African-American women’s pension claims were for many their first interaction with the federal government as full citizens. These women who were often the sole breadwinners in their families flexed their rights as citizens with the support of a “grassroots pension network” of social ties and associational life in black neighborhoods. The network includes black professional men who were socially responsible leaders and served as claims agents alongside white attorneys in Washington, D.C. The grassroots pension network also included neighbors, veterans, acquaintances, family relations, religious leaders and former servants who testified on behalf of widows in letters, affidavits and depositions. 
+
+This project-prototype collects data from all digitally available petitions (via the National Archives) from widows of veterans of the U.S.C.T. regiments to create graphs and networks that highlights trends and patterns in the petition process as the widows navigated them. The data collection process is ongoing. Featured at this stage of the project are 59 petitions from widows of 2nd regiment veterans who served in Companies A, B, G & I. 56 of the 59 petitions are from widows of veterans who served in Companies A & B. 
+
+## Project Objectives
+- Collect data on the widows, the bureaucratic pension process and the grassroots pension network.
+- Visualize and analyze the network and communities supporting these pension claims.
+- Produce graphs based on the data to read the data on a broad scale.
+
+## Project Materials
+[Introduction](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/sp25-parr-hist7250-blender/SP25-Parr-HIST7250-Blender-Slides.pdf)
+
+[Datastes](https://docs.google.com/document/d/1GTL01jjwLAEcAafnlTL9ZzUqgDmhMaKdPujhFI1fxFY/edit?usp=sharing)
+
+[Data Dictionary](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/sp25-parr-hist7250-blender/Liberty_Bell.obj)
+
+[Methods](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/sp25-parr-hist7250-blender/Liberty_Bell.obj)
+
+[Networks](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/sp25-parr-hist7250-blender/Liberty_Bell.obj)
+
+[Graphs](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/sp25-parr-hist7250-blender/Liberty_Bell.obj)
 
 
-## Individual Class Info
-HIST 7250
+## Project  Information
+Lead Investigator: Halima Haruna
 
-Jessica Parr
+Instructors: Julia Flanders & Sarah Connell
 
-Spring 2025
+Contact information: haruna.h@northeastern.edu
 
-## Summary of Module
-This module introduces students to the fundamentals of 3D modeling in Blender with a focus on editing object files. It covers relevant vocabulary, how to install Blender, how to navigate in Blender, and how to edit an object file in Blender. It also provides a sample object file students can practice editing in class. 
+Course Information: NULab Seminar (Fall 2024 - Spring 2025), For Digital Humanities Certificate
 
-
-## Learning Goals
-- Understand what Blender is and how to use it to edit and refine 3D models
-- Gain awareness of the basic concepts behind 3D models in material culture heritage
-
-## Learning Objectives
-- Understand basic concepts in Blender including its viewport, navigation, object mode and edit mode functions.
-- Use Blender functions to: import ab object file, refine the object, and export the object file.
-
-## Materials for Module
-[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/sp25-parr-hist7250-blender/SP25-Parr-HIST7250-Blender-Slides.pdf)
-
-[Google Slides, includes alt text](https://docs.google.com/presentation/d/1K5BcML0k9inMXexIcqCOayrh99seQaqiHZORgfKKatY/edit?usp=sharing)
-
-[Handout: Installing Blender](https://docs.google.com/document/d/1GTL01jjwLAEcAafnlTL9ZzUqgDmhMaKdPujhFI1fxFY/edit?usp=sharing)
-
-[Example Object: Liberty Bell](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/sp25-parr-hist7250-blender/Liberty_Bell.obj)
-
-## DITI Consultants
-Sara Morrell
-
-Halima Haruna
+Institution: Northeastern University
