@@ -13,15 +13,15 @@ This project-prototype collects data from all digitally available petitions (via
 ## Project Materials
 [Introduction](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/sp25-parr-hist7250-blender/SP25-Parr-HIST7250-Blender-Slides.pdf)
 
-[Datastes](https://docs.google.com/document/d/1GTL01jjwLAEcAafnlTL9ZzUqgDmhMaKdPujhFI1fxFY/edit?usp=sharing)
+[Datastes](https://github.com/hharuna/usct-widows/tree/main/1.%20Datasets)
 
 [Data Dictionary](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/sp25-parr-hist7250-blender/Liberty_Bell.obj)
 
 [Methods](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/sp25-parr-hist7250-blender/Liberty_Bell.obj)
 
-[Networks](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/sp25-parr-hist7250-blender/Liberty_Bell.obj)
+[Networks](https://github.com/hharuna/usct-widows/tree/main/2.%20Networks)
 
-[Graphs](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/sp25-parr-hist7250-blender/Liberty_Bell.obj)
+[Graphs](https://github.com/hharuna/usct-widows/tree/main/3.%20Graphs)
 
 
 ## Project  Information
