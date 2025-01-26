@@ -11,7 +11,7 @@ This project-prototype collects data from all digitally available petitions (via
 - Produce graphs based on the data to read the data on a broad scale.
 
 ## Project Materials
-[Introduction](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/sp25-parr-hist7250-blender/SP25-Parr-HIST7250-Blender-Slides.pdf)
+[Introduction](https://docs.google.com/document/d/1o5k087gs9W4ECJNK487IDSLHFY5SV0McyZSXKhzJhwU/edit?tab=t.0)
 
 [Datastes](https://github.com/hharuna/usct-widows/tree/main/1.%20Datasets)
 
