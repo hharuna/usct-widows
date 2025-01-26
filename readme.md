@@ -13,7 +13,7 @@ This project-prototype collects data from all digitally available petitions (via
 ## Project Materials
 [Introduction](https://docs.google.com/document/d/1o5k087gs9W4ECJNK487IDSLHFY5SV0McyZSXKhzJhwU/edit?tab=t.0)
 
-[Datastes](https://github.com/hharuna/usct-widows/tree/main/1.%20Datasets)
+[Datasets](https://github.com/hharuna/usct-widows/tree/main/1.%20Datasets)
 
 [Data Dictionary](https://docs.google.com/document/d/1m7fjO3q1YqrYe1gWYUqbTSkSrR1lrlFeIWDge9fDmgs/edit?tab=t.0)
 
@@ -25,11 +25,9 @@ This project-prototype collects data from all digitally available petitions (via
 
 
 ## Project  Information
-Lead Investigator: Halima Haruna
+Lead Investigator: Halima Haruna (haruna.h@northeastern.edu)
 
 Instructors: Julia Flanders & Sarah Connell
-
-Contact information: haruna.h@northeastern.edu
 
 Course Information: NULab Seminar (Fall 2024 - Spring 2025), For Digital Humanities Certificate
 
