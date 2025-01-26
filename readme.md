@@ -15,9 +15,9 @@ This project-prototype collects data from all digitally available petitions (via
 
 [Datastes](https://github.com/hharuna/usct-widows/tree/main/1.%20Datasets)
 
-[Data Dictionary](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/sp25-parr-hist7250-blender/Liberty_Bell.obj)
+[Data Dictionary](https://docs.google.com/document/d/1m7fjO3q1YqrYe1gWYUqbTSkSrR1lrlFeIWDge9fDmgs/edit?tab=t.0)
 
-[Methods](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/sp25-parr-hist7250-blender/Liberty_Bell.obj)
+[Methods](https://docs.google.com/document/d/1htUY6QDQRN4LjNugiYYmG1AeRPxorzdNGG2QPiEU3Ns/edit?usp=sharing)
 
 [Networks](https://github.com/hharuna/usct-widows/tree/main/2.%20Networks)
 
