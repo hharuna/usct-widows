@@ -25,11 +25,9 @@ This project-prototype collects data from all digitally available petitions (via
 
 
 ## Project  Information
-Lead Investigator: Halima Haruna
+Lead Investigator: Halima Haruna (haruna.h@northeastern.edu)
 
 Instructors: Julia Flanders & Sarah Connell
-
-Contact information: haruna.h@northeastern.edu
 
 Course Information: NULab Seminar (Fall 2024 - Spring 2025), For Digital Humanities Certificate
 
