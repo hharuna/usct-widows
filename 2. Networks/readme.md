@@ -1,7 +1,9 @@
 # Network of Widows, Veterans, Testifiers and Attorneys (2nd Regiment)
 
 ## Network Summary
-This is a network created with  59 rows of data on widows and their pension claims between 1871 and 1924. The network features the widows' late husbands, testifiers to their claims and their attorneys.
+This section includes two networks created with  59 rows of data on widows and their pension claims between 1871 and 1924. The network features the widows' late husbands, testifiers to their claims and their attorneys.
+
+The first network features the widows, veterans, testifiers, and attorneys. The second network is in progress and only features widows and testifiers to their pension claims.
 
 The network can be viewed in Cytoscape.
 
