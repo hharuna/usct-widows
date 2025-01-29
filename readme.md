@@ -29,6 +29,6 @@ Lead Investigator: Halima Haruna (haruna.h@northeastern.edu)
 
 Instructors: Julia Flanders & Sarah Connell
 
-Course Information: NULab Seminar (Fall 2024 - Spring 2025), For Digital Humanities Certificate
+Course Information: NULab Project Seminar (Fall 2024 - Spring 2025) for Digital Humanities Certificate
 
 Institution: Northeastern University
