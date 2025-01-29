@@ -3,9 +3,9 @@
 ## Network Summary
 This section includes two networks created with  59 rows of data on widows and their pension claims between 1871 and 1924. The network features the widows' late husbands, testifiers to their claims and their attorneys.
 
-The first network features the widows, veterans, testifiers, and attorneys. The second network is in progress and only features widows and testifiers to their pension claims.
+The first network features the widows, veterans, testifiers, and attorneys as nodes and relationships as edges. The second network is in progress and only features widows and testifiers to their pension claims.
 
-The network can be viewed in Cytoscape.
+The networks can be viewed in Cytoscape.
 
 ## Network Key
 - Nodes: widows are represented in purple, late husbands in red, tesifiers in green and attorneys in blue.

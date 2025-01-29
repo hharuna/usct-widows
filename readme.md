@@ -7,7 +7,7 @@ This project-prototype collects data from all digitally available petitions (via
 
 ## Project Objectives
 - Collect data on the widows, the bureaucratic pension process and the grassroots pension network.
-- Visualize and analyze the network and communities supporting these pension claims.
+- Visualize and analyze multimodal networks and communities supporting these pension claims.
 - Produce graphs based on the data to read the data on a broad scale.
 
 ## Project Materials
