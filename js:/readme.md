@@ -1,8 +1,30 @@
-<head>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.31.0/cytoscape.min.js"></script>
-</head>
-
-<body>
-    <div id="cytoscape-container" style="width:100%;height:600px;"></div>
-    <script src="js/graph.js"></script>
-</body>
+document.addEventListener('DOMContentLoaded', function() {
+    const cy = cytoscape({
+        container: document.getElementById('cytoscape-container'),
+        
+        elements: [
+            { data: { id: 'a' } },
+            { data: { id: 'b' } },
+            { data: { id: 'c' } },
+            { data: { source: 'a', target: 'b' } },
+            { data: { source: 'b', target: 'c' } }
+        ],
+        
+        style: [
+            {
+                selector: 'node',
+                style: {
+                    'background-color': '#666',
+                    label: 'data(id)'
+                }
+            },
+            {
+                selector: 'edge',
+                style: {
+                    'width': 3,
+                    'line-color': '#ccc'
+                }
+            }
+        ]
+    });
+});
