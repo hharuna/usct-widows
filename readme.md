@@ -21,10 +21,7 @@ This project-prototype collects data from all digitally available petitions (via
 
 [Networks](https://github.com/hharuna/usct-widows/tree/main/2.%20Networks)
 
-[Visualized Network](https://github.com/hharuna/usct-widows/tree/main/web_session)
-
 [Graphs](https://github.com/hharuna/usct-widows/tree/main/3.%20Graphs)
-
 
 ## Project  Information
 Lead Investigator: Halima Haruna (haruna.h@northeastern.edu)
@@ -34,3 +31,12 @@ Instructors: Julia Flanders & Sarah Connell
 Course Information: NULab Project Seminar (Fall 2024 - Spring 2025) for Digital Humanities Certificate
 
 Institution: Northeastern University
+
+<head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.31.0/cytoscape.min.js"></script>
+</head>
+
+<body>
+    <div id="cytoscape-container" style="width:100%;height:600px;"></div>
+    <script src="js/graph.js"></script>
+</body>
