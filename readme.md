@@ -21,6 +21,8 @@ This project-prototype collects data from all digitally available petitions (via
 
 [Networks](https://github.com/hharuna/usct-widows/tree/main/2.%20Networks)
 
+[Visualized Network](https://github.com/hharuna/usct-widows/tree/main/web_session)
+
 [Graphs](https://github.com/hharuna/usct-widows/tree/main/3.%20Graphs)
 
 
