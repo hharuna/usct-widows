@@ -11,7 +11,7 @@ This project-prototype collects data from all digitally available petitions (via
 - Produce graphs based on the data to read the data on a broad scale.
 
 ## Project Materials
-[Introduction](https://docs.google.com/document/d/1o5k087gs9W4ECJNK487IDSLHFY5SV0McyZSXKhzJhwU/edit?tab=t.0)
+[Introduction]
 
 [Datasets](https://github.com/hharuna/usct-widows/tree/main/1.%20Datasets)
 
@@ -19,7 +19,9 @@ This project-prototype collects data from all digitally available petitions (via
 
 [Methods](https://docs.google.com/document/d/1htUY6QDQRN4LjNugiYYmG1AeRPxorzdNGG2QPiEU3Ns/edit?usp=sharing)
 
-[Networks](https://github.com/hharuna/usct-widows/tree/main/2.%20Networks)
+[Interactive Network of 2nd Regiment](https://hharuna.github.io/interactivegraphs/network/#)
+
+[Interactive Network of 33rd Regiment](https://hharuna.github.io/interactivegraphs2/network/)
 
 [Graphs](https://github.com/hharuna/usct-widows/tree/main/3.%20Graphs)
 
