@@ -14,15 +14,17 @@ This project-prototype collects data from all digitally available petitions (via
 ## Site Map
 [Historical Context](https://github.com/hharuna/usct-widows/tree/main/0.%20Historical%20Context)
 
-[Datasets and Data Dictionary](https://github.com/hharuna/usct-widows/tree/main/1.%20Datasets)
+[Datasets and Data Dictionary](https://github.com/hharuna/usct-widows/tree/main/2.%20Datasets)
 
-[Methods](https://docs.google.com/document/d/1htUY6QDQRN4LjNugiYYmG1AeRPxorzdNGG2QPiEU3Ns/edit?usp=sharing)
+[Methods](https://github.com/hharuna/usct-widows/tree/main/1.%20Methods)
 
 [Interactive Network of 2nd Regiment](https://hharuna.github.io/interactivegraphs/network/#)
 
 [Interactive Network of 33rd Regiment](https://hharuna.github.io/interactivegraphs2/network/)
 
-[Graphs](https://github.com/hharuna/usct-widows/tree/main/3.%20Graphs)
+[Graphs](https://github.com/hharuna/usct-widows/tree/main/4.%20Graphs)
+
+[Networks](https://github.com/hharuna/usct-widows/tree/main/3.%20Networks)
 
 ## Project  Information
 Lead Investigator: Halima Haruna (haruna.h@northeastern.edu)
