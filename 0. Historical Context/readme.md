@@ -1,20 +1,19 @@
-# U.S.C.T. Widows Project: Datasets for RAWGraphs and Cytoscape
+# U.S.C.T. Widows Project: Historical Context
 
-## Data Summary
-There are three different datasets in this repository. Two of the datasets are a pair used in Cytoscapes (an edge list and a node list). Both the edge and the node list feature widows, veterans/late husbands, testifiers, and attorneys.
+## The U.S.C.T. Civil War Widow and Her Veteran Husband
+The U.S.C.T. stands for the United States Colored Troops. This acronym was used in the American Civil War to represent African-Americans who enlisted and served in the Union Army. Up to 210,000 African-American men served in the Union Army from all over the country.
 
-The primary source for the data here is from [Department of the Interior, Bureau of Pensions. (1849 - 1930) and Veterans’ Administration. (07/21/1930 - 03/15/1989), Case Files of Approved Pension Applications of Widows and Other Dependents of the Army and Navy Who Served Mainly in the Civil War and the War With Spain, Records of the Department of Veterans Affairs, n.d.](https://catalog.archives.gov/id/300020)
+Following the defeat of the Confederacy in 1856, the act of July 14, 1862 set up the general law pension system for war veterans of the Civil War and their dependents. African-American widows were initially excluded from this system. Protests by African-American widows at Fort Pillow, Tennessee in 1864 prompted lawmakers to address this injustice.
 
-## Project Materials
-[Parent Dataset, in progress](https://docs.google.com/spreadsheets/d/1YecUt_40J-x2H4w_2LAkcT9nBeTGIOR2to0zMN6wyrs/edit?gid=0#gid=0)
+The supplemental Act of July 1864 accepted eyewitness testimony to support claims for pensions which allowed African-American widows to prove their marriages to veterans. This is because marriages between African-Americans were very rarely officiated and legally recognized before emancipation. 
 
-[Data Dictionary, in progress](https://docs.google.com/document/d/1m7fjO3q1YqrYe1gWYUqbTSkSrR1lrlFeIWDge9fDmgs/edit?tab=t.0)
+However, the law of 1882 which used sexual morality as a basis for determining eligibility for pension undermined the rules introduced in 1864. The federal government via the Department of the Interior and Veterans’ affairs employed federal Special Examiners to investigate and report on the veracity of the widows’ claims.
 
-## Project  Information
-Lead Investigator: Halima Haruna (haruna.h@northeastern.edu)
+## Further Reading
+Brimmer, Brandi C. *Claiming Union Widowhood: Race, Respectability, and Poverty in the Post-Emancipation South.* Duke University Press, 2020. 
 
-Instructors: Julia Flanders & Sarah Connell
+Foner, Eric. *Reconstruction: America's Unfinished Revolution, 1863-1877* Harper & Row, 1988.
 
-Course Information: NULab Seminar (Fall 2024 - Spring 2025), For Digital Humanities Certificate
+Hahn, Steven. *A Nation under Our Feet: Black Political Struggles in the Rural South from Slavery to the Great Migration.* Harvard University Press, 2003. 
 
-Institution: Northeastern University
+Logue, Larry M. and Blanck, Peter David. “‘Benefit of the Doubt’: African-American Civil War Veterans and Pensions,” *Journal of Interdisciplinary History* 38, no. 3 (2008): 377–99. 
