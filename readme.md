@@ -14,9 +14,7 @@ This project-prototype collects data from all digitally available petitions (via
 ## Site Map
 [Historical Context](https://github.com/hharuna/usct-widows/tree/main/0.%20Historical%20Context)
 
-[Datasets](https://github.com/hharuna/usct-widows/tree/main/1.%20Datasets)
-
-[Data Dictionary](https://docs.google.com/document/d/1m7fjO3q1YqrYe1gWYUqbTSkSrR1lrlFeIWDge9fDmgs/edit?tab=t.0)
+[Datasets and Data Dictionary](https://github.com/hharuna/usct-widows/tree/main/1.%20Datasets)
 
 [Methods](https://docs.google.com/document/d/1htUY6QDQRN4LjNugiYYmG1AeRPxorzdNGG2QPiEU3Ns/edit?usp=sharing)
 
