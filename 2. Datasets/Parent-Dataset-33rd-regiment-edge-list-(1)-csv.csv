@@ -1,0 +1,160 @@
+Source,Target,Type,Edge Attribute,Weight
+1,43,Directed,Related Soldier/Pensioner,5
+1,85,Directed,Name of Testifier to Pension Claim 1,3
+1,127,Directed,Name of Testifier 2,3
+1,168,Directed,Attorney/Public Notary,1
+2,44,Directed,Related Soldier/Pensioner,5
+2,86,Directed,Name of Testifier to Pension Claim 1,3
+2,128,Directed,Name of Testifier 2,3
+2,169,Directed,Attorney/Public Notary,1
+3,45,Directed,Related Soldier/Pensioner,5
+3,87,Directed,Name of Testifier to Pension Claim 1,3
+3,129,Directed,Name of Testifier 2,3
+4,46,Directed,Related Soldier/Pensioner,5
+4,88,Directed,Name of Testifier to Pension Claim 1,3
+4,130,Directed,Name of Testifier 2,3
+4,170,Directed,Attorney/Public Notary,1
+5,47,Directed,Related Soldier/Pensioner,5
+5,89,Directed,Name of Testifier to Pension Claim 1,3
+5,131,Directed,Name of Testifier 2,3
+5,171,Directed,Attorney/Public Notary,1
+6,48,Directed,Related Soldier/Pensioner,5
+6,90,Directed,Name of Testifier to Pension Claim 1,3
+6,132,Directed,Name of Testifier 2,3
+6,172,Directed,Attorney/Public Notary,1
+7,49,Directed,Related Soldier/Pensioner,5
+7,91,Directed,Name of Testifier to Pension Claim 1,3
+7,133,Directed,Name of Testifier 2,3
+7,173,Directed,Attorney/Public Notary,1
+8,50,Directed,Related Soldier/Pensioner,5
+8,92,Directed,Name of Testifier to Pension Claim 1,3
+8,134,Directed,Name of Testifier 2,3
+8,174,Directed,Attorney/Public Notary,1
+9,51,Directed,Related Soldier/Pensioner,5
+9,93,Directed,Name of Testifier to Pension Claim 1,3
+9,135,Directed,Name of Testifier 2,3
+10,52,Directed,Related Soldier/Pensioner,5
+10,94,Directed,Name of Testifier to Pension Claim 1,3
+10,136,Directed,Name of Testifier 2,3
+10,175,Directed,Attorney/Public Notary,1
+11,53,Directed,Related Soldier/Pensioner,5
+11,95,Directed,Name of Testifier to Pension Claim 1,3
+11,137,Directed,Name of Testifier 2,3
+11,171,Directed,Attorney/Public Notary,1
+12,54,Directed,Related Soldier/Pensioner,5
+12,96,Directed,Name of Testifier to Pension Claim 1,3
+12,81,Directed,Name of Testifier 2,3
+13,55,Directed,Related Soldier/Pensioner,5
+13,97,Directed,Name of Testifier to Pension Claim 1,3
+13,139,Directed,Name of Testifier 2,3
+13,177,Directed,Attorney/Public Notary,1
+14,56,Directed,Related Soldier/Pensioner,5
+14,98,Directed,Name of Testifier to Pension Claim 1,3
+14,140,Directed,Name of Testifier 2,3
+14,169,Directed,Attorney/Public Notary,1
+15,57,Directed,Related Soldier/Pensioner,5
+15,99,Directed,Name of Testifier to Pension Claim 1,3
+15,141,Directed,Name of Testifier 2,3
+15,169,Directed,Attorney/Public Notary,1
+16,58,Directed,Related Soldier/Pensioner,5
+16,100,Directed,Name of Testifier to Pension Claim 1,3
+16,142,Directed,Name of Testifier 2,3
+16,180,Directed,Attorney/Public Notary,1
+17,59,Directed,Related Soldier/Pensioner,5
+17,101,Directed,Name of Testifier to Pension Claim 1,3
+17,143,Directed,Name of Testifier 2,3
+17,181,Directed,Attorney/Public Notary,1
+18,60,Directed,Related Soldier/Pensioner,5
+18,102,Directed,Name of Testifier to Pension Claim 1,3
+18,144,Directed,Name of Testifier 2,3
+19,61,Directed,Related Soldier/Pensioner,5
+19,103,Directed,Name of Testifier to Pension Claim 1,3
+19,145,Directed,Name of Testifier 2,3
+19,169,Directed,Attorney/Public Notary,1
+20,62,Directed,Related Soldier/Pensioner,5
+20,104,Directed,Name of Testifier to Pension Claim 1,3
+20,146,Directed,Name of Testifier 2,3
+20,173,Directed,Attorney/Public Notary,1
+21,63,Directed,Related Soldier/Pensioner,5
+21,105,Directed,Name of Testifier to Pension Claim 1,3
+21,147,Directed,Name of Testifier 2,3
+21,173,Directed,Attorney/Public Notary,1
+22,64,Directed,Related Soldier/Pensioner,5
+22,106,Directed,Name of Testifier to Pension Claim 1,3
+22,143,Directed,Name of Testifier 2,3
+22,181,Directed,Attorney/Public Notary,1
+23,65,Directed,Related Soldier/Pensioner,5
+23,107,Directed,Name of Testifier to Pension Claim 1,3
+23,124,Directed,Name of Testifier 2,3
+23,186,Directed,Attorney/Public Notary,1
+24,66,Directed,Related Soldier/Pensioner,5
+24,108,Directed,Name of Testifier to Pension Claim 1,3
+24,187,Directed,Attorney/Public Notary,1
+25,67,Directed,Related Soldier/Pensioner,5
+25,98,Directed,Name of Testifier to Pension Claim 1,3
+25,151,Directed,Name of Testifier 2,3
+25,188,Directed,Attorney/Public Notary,1
+26,68,Directed,Related Soldier/Pensioner,5
+26,110,Directed,Name of Testifier to Pension Claim 1,3
+26,111,Directed,Name of Testifier 2,3
+26,189,Directed,Attorney/Public Notary,1
+27,69,Directed,Related Soldier/Pensioner,5
+27,111,Directed,Name of Testifier to Pension Claim 1,3
+27,153,Directed,Name of Testifier 2,3
+27,190,Directed,Attorney/Public Notary,1
+28,70,Directed,Related Soldier/Pensioner,5
+28,112,Directed,Name of Testifier to Pension Claim 1,3
+28,154,Directed,Name of Testifier 2,3
+28,191,Directed,Attorney/Public Notary,1
+29,71,Directed,Related Soldier/Pensioner,5
+29,113,Directed,Name of Testifier to Pension Claim 1,3
+29,155,Directed,Name of Testifier 2,3
+30,72,Directed,Related Soldier/Pensioner,5
+30,114,Directed,Name of Testifier to Pension Claim 1,3
+30,98,Directed,Name of Testifier 2,3
+30,169,Directed,Attorney/Public Notary,1
+31,73,Directed,Related Soldier/Pensioner,5
+31,115,Directed,Name of Testifier to Pension Claim 1,3
+31,157,Directed,Name of Testifier 2,3
+31,191,Directed,Attorney/Public Notary,1
+32,74,Directed,Related Soldier/Pensioner,5
+32,116,Directed,Name of Testifier to Pension Claim 1,3
+32,158,Directed,Name of Testifier 2,3
+32,194,Directed,Attorney/Public Notary,1
+33,75,Directed,Related Soldier/Pensioner,5
+33,117,Directed,Name of Testifier to Pension Claim 1,3
+33,159,Directed,Name of Testifier 2,3
+33,181,Directed,Attorney/Public Notary,1
+34,66,Directed,Related Soldier/Pensioner,5
+34,118,Directed,Name of Testifier to Pension Claim 1,3
+34,160,Directed,Name of Testifier 2,3
+34,169,Directed,Attorney/Public Notary,1
+35,77,Directed,Related Soldier/Pensioner,5
+35,119,Directed,Name of Testifier to Pension Claim 1,3
+35,161,Directed,Name of Testifier 2,3
+35,197,Directed,Attorney/Public Notary,1
+36,78,Directed,Related Soldier/Pensioner,5
+36,120,Directed,Name of Testifier to Pension Claim 1,3
+36,162,Directed,Name of Testifier 2,3
+36,198,Directed,Attorney/Public Notary,1
+37,79,Directed,Related Soldier/Pensioner,5
+37,121,Directed,Name of Testifier to Pension Claim 1,3
+38,80,Directed,Related Soldier/Pensioner,5
+38,122,Directed,Name of Testifier to Pension Claim 1,3
+38,163,Directed,Name of Testifier 2,3
+39,81,Directed,Related Soldier/Pensioner,5
+39,123,Directed,Name of Testifier to Pension Claim 1,3
+39,54,Directed,Name of Testifier 2,3
+39,199,Directed,Attorney/Public Notary,1
+40,82,Directed,Related Soldier/Pensioner,5
+40,124,Directed,Name of Testifier to Pension Claim 1,3
+40,165,Directed,Name of Testifier 2,3
+40,181,Directed,Attorney/Public Notary,1
+41,83,Directed,Related Soldier/Pensioner,5
+41,125,Directed,Name of Testifier to Pension Claim 1,3
+41,166,Directed,Name of Testifier 2,3
+41,191,Directed,Attorney/Public Notary,1
+42,84,Directed,Related Soldier/Pensioner,5
+42,126,Directed,Name of Testifier to Pension Claim 1,3
+42,167,Directed,Name of Testifier 2,3
+42,197,Directed,Attorney/Public Notary,1

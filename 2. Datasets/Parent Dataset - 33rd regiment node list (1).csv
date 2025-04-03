@@ -1,0 +1,202 @@
+ID,Label,Gender,Role,Location,Age of widow
+1,Annie Gool,F,Widow,Georgia,65
+2,Sallie Crawford,F,Widow,South Carolina,58
+3,Mary E. Parker,F,Widow,Maine,
+4,Jane Lemon,F,Widow,Georgia,50
+5,Nellie King,F,Widow,Georgia,60
+6,Sarah E. Randolph,F,Widow,Kansas,69
+7,Betsey Adams,F,Widow,Georgia,70
+8,Rachel Wallace,F,Widow,Florida,68
+9,Lavinia Hagens,F,Widow,South Carolina,50
+10,Pender Powell,F,Widow,Georgia,75
+11,Matilda Williams,F,Widow,Georgia,53
+12,Maria Floyd,F,Widow,Georgia,60
+13,Elizabeth Grant,F,Widow,Georgia,65
+14,Diana Grayson,F,Widow,South Carolina,56
+15,Charlotte Fisher,F,Widow,South Carolina,61
+16,Carrie McGill,F,Widow,South Carolina,
+17,Rachel Hammond,F,Widow,South Carolina,60
+18,Clarissa Dingle,F,Widow,South Carolina,42
+19,Olivia Geddis,F,Widow,South Carolina,50
+20,Sarah Baker,F,Widow,South Carolina,60
+21,Eva Grayson ,F,Widow,South Carolina,50
+22,Matilda Managault,F,Widow,South Carolina,59
+23,Isabella Hearns,F,Widow,Georgia,46
+24,Mollie Marks,F,Widow,Georgia,55
+25,Charlotte Talbot,F,Widow,Missouri,46
+26,Martha Taylor,F,Widow,South Carolina,53
+27,Sibbie Trewell,F,Widow,South Carolina,58
+28,Katie Polite,F,Widow,South Carolina,
+29,Dora Richardson,F,Widow,Florida,51
+30,Ellen Haynes,F,Widow,South Carolina,52
+31,Lena Seymour,F,Widow,South Carolina,65
+32,Hagar Fuller,F,Widow,South Carolina,45
+33,Nancy Grant,F,Widow,Georgia,60
+34,Flora Martis,F,Widow,Georgia,80
+35,Sarah Alfred,F,Widow,South Carolina,50
+36,Margaret Benjamin,F,Widow,Florida,50
+37,Hannah Taylor,F,Widow,South Carolina,60
+38,Dolly Deloney,F,Widow,Florida,65
+39,Mintie Williams,F,Widow,Georgia,55
+40,Celia King,F,Widow,Florida,
+41,Martha Bolles,F,Widow,South Carolina,50
+42,Sylvia Jones,F,Widow,South Carolina,75
+43,Joseph Gool,M,Veteran,,
+44,Nero Crawford,M,Veteran,,
+45,Charles E. Parker,M,Veteran,,
+46,James Lemon,M,Veteran,,
+47,Lancaster King,M,Veteran,,
+48,William J. Randolph,M,Veteran,,
+49,Richard Adams,M,Veteran,,
+50,Thomas Wallace,M,Veteran,,
+51,Frank Hagens,M,Veteran,,
+52,Isaac Powell,M,Veteran,,
+53,Joseph Williams,M,Veteran,,
+54,John Floyd,M,Veteran,,
+55,Lester Grant,M,Veteran,,
+56,Daniel Grayson,M,Veteran,,
+57,Henry Fisher,M,Veteran,,
+58,Zachariah McGill,M,Veteran,,
+59,David Hammond,M,Veteran,,
+60,Robert Dingle,M,Veteran,,
+61,Stephney Geddis,M,Veteran,,
+62,Thomas Baker,M,Veteran,,
+63,Alexander Wing,M,Veteran,,
+64,Benjamin Managault,M,Veteran,,
+65,Edward Hearns,M,Veteran,,
+66,Samuel Marks,M,Veteran,,
+67,Charles Talbot,M,Veteran,,
+68,Edward Taylor,M,Veteran,,
+69,Jonas Trewell,M,Veteran,,
+70,Morris Polite,M,Veteran,,
+71,Thomas Richardson,M,Veteran,,
+72,Robert Haynes,M,Veteran,,
+73,Alexander Seymour,M,Veteran,,
+74,Ishmael Fuller,M,Veteran,,
+75,Thomas Grant,M,Veteran,,
+76,Samuel Martis,M,Veteran,,
+77,William Alfred,M,Veteran,,
+78,William Benjamin,M,Veteran,,
+79,Douglas T. Taylor,M,Veteran,,
+80,Horace Deloney,M,Veteran,,
+81,Lazarus Williams,M,Veteran,,
+82,James King,M,Veteran,,
+83,Moses Cook,M,Veteran,,
+84,Paul Jones,M,Veteran,,
+85,Isaac King,M,Neighbor,,
+86,Robert Goodwin,M,Veteran,,
+87,W.H. London,M,Acquiantance,,
+88,Charles L. Bass,M,Neighbor,,
+89,Edward Thomas,M,Acquiantance,,
+90,James W. Denny,M,Family relation,,
+91,Sebby Grant,M,Neighbor,,
+92,Augustus Cockrell,M,Acquiantance,,
+93,Jonas Fields,M,Neighbor,,
+94,Simon Weber,M,Family relation,,
+95,James Hammond,M,Veteran,,
+96,Moses Parish,M,Acquiantance,,
+97,Benjamin King,M,Veteran,,
+98,Richard Washington,M,Acquiantance,,
+99,J.I. Washington,M,Acquiantance,,
+100,Richard Howard,M,Veteran,,
+101,Isaac Heyward,M,Acquiantance,,
+102,Jacob Jones,M,Acquiantance,,
+103,Jennie Jenkins,F,Family relation,,
+104,March Haywood,M,Family relation,,
+105,Juno Washington,F,Acquiantance,,
+106,John Brown,M,Neighbor,,
+107,Margaret Bordley,F,Acquiantance,,
+108,Eve Fields,F,Family relation,,
+109,Richard Washington,M,Acquiantance,,
+110,Dick Perry,M,Neighbor,,
+111,Cuffy Scott,M,Acquiantance,,
+112,Isabel Shephard,F,Family relation,,
+113,Frances Van Dyke,F,Family relation,,
+114,Hager Miller,F,Family relation,,
+115,Tobias Richardson,M,Family relation,,
+116,Louisa Ferguson,F,Family relation,,
+117,Anna Bailey,F,Acquiantance,,
+118,Phillip Martis,M,Family relation,,
+119,Ellen Garven,F,Neighbor,,
+120,Gibson Breaker,M,Acquiantance,,
+121,Peggie Alston,F,Acquiantance,,
+122,Martin Dixon,M,Veteran,,
+123,William Taylor,M,Veteran,,
+124,Lucy Green,F,Acquiantance,,
+125,Rebecca Polite,F,Acquiantance,,
+126,Harriet Singleton,F,Family relation,,
+127,Edward Nelson,M,Acquiantance,,
+128,Clara Burns,F,Acquiantance,,
+129,Revel W. Porter,M,Acquiantance,,
+130,William Hillary,M,Acquiantance,,
+131,Aaron Evans,M,Acquiantance,,
+132,Thomas Randolph,M,Family relation,,
+133,Acey Hilton,M,Acquiantance,,
+134,Benjamin Wright,M,Neighbor,,
+135,Hector Fields,M,Neighbor,,
+136,Smith Underwood,M,Religious leader/church member,,
+137,Amelia Kimball,F,Neighbor,,
+138,Lazarus Williams,M,Veteran,,
+139,Della Baisden,F,Family relation,,
+140,Charlotte Grayson,F,Family relation,,
+141,Asa Hill,F,Acquiantance,,
+142,Susan Wallace,F,Acquiantance,,
+143,Culliott Gibbes,M,Acquiantance,,
+144,Joseph Jenkins,M,Acquiantance,,
+145,Rodwell Jenkins,M,Family relation,,
+146,Joseph Fields,M,Neighbor,,
+147,Hilliard Grayson,M,Family relation,,
+148,Culliott Gibbes,M,Neighbor,,
+149,Lucy Green,F,Acquiantance,,
+151,Margaret Washington,F,Acquiantance,,
+152,Cuffy Scott,M,Veteran,,
+153,Celia Mungin,F,Family relation,,
+154,Jane Parker,F,Family relation,,
+155,Florence F. Andrew,F,Family relation,,
+156,Richard Washington,M,Acquiantance,,
+157,William Seymour,M,Family relation,,
+158,Katie Grayson,F,Acquiantance,,
+159,Peggy Grant,F,Acquiantance,,
+160,Emmanuel Washington,M,Veteran,,
+161,Hester Riley,M,Acquiantance,,
+162,Florida Singleton,M,Acquiantance,,
+163,William Wright,M,Acquiantance,,
+164,John Floyd,M,Veteran,,
+165,Louisa Town,F,Acquiantance,,
+166,Isaac Singleton,M,Acquiantance,,
+167,Maria Bryan,F,Family relation,,
+168,John A. Laring,M,Attorney,Tennessee,
+169,R.F. Greaves,M,Attorney,South Carolina,
+170,Geo E. Lemon,M,Attorney,District of Columbia,
+171,James Tanner,M,Attorney,District of Columbia,
+172,H.D. Phillips ,M,Attorney,District of Columbia,
+173,William Fletcher,M,Attorney,District of Columbia,
+174,P.B. Bedford,M,Attorney,Florida,
+175,E.H. Gelston & co.,M,Attorney,District of Columbia,
+176,James Tanner,M,Attorney,District of Columbia,
+177,F.L. Satterthwaite,M,Attorney,North Carolina,
+178,R.F. Greaves,M,Attorney,South Carolina,
+179,R.F. Greaves,M,Attorney,South Carolina,
+180,W.H. Washington,M,Attorney,South Carolina,
+181,Nathan Bickford,M,Attorney,District of Columbia,
+182,R.F. Greaves,M,Attorney,South Carolina,
+183,William Fletcher,M,Attorney,District of Columbia,
+184,William Fletcher,M,Attorney,District of Columbia,
+185,Nathan Bickford,M,Attorney,District of Columbia,
+186,M. Elliott Waggaman,M,Attorney,District of Columbia,
+187,Reuben D. Smith,M,Attorney,District of Columbia,
+188,H..D. & R.S. O'Brien,M,Attorney,Missouri,
+189,Joseph H. Hunter,M,Attorney,District of Columbia,
+190,S.I. Wright & Co,M,Attorney,District of Columbia,
+191,William W. Dudley,M,Attorney,District of Columbia,
+192,R.F. Greaves,M,Attorney,South Carolina,
+193,William W. Dudley,M,Attorney,District of Columbia,
+194,E.A. Crofit,M,Attorney,South Carolina,
+195,Nathan Bickford,M,Attorney,District of Columbia,
+196,R.F. Greaves,M,Attorney,South Carolina,
+197,T.W. Tallmadge,M,Attorney,District of Columbia,
+198,Soule & Co.,M,Attorney,District of Columbia,
+199,L.G. Wood & Co.,M,Attorney,District of Columbia,
+200,Nathan Bickford,M,Attorney,District of Columbia,
+201,William W. Dudley,M,Attorney,District of Columbia,
+202,T.W. Tallmadge,M,Attorney,District of Columbia,

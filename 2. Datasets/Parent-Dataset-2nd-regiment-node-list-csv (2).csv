@@ -1,0 +1,235 @@
+ID,Label,Node Attribute,Note Attribute 2,Node Attribute 3,Node Attribute 4
+1,Jane Spruill,Widow,F,62,"North Carolina"
+2,Ellenora Williams,Widow,F,65,"Maryland"
+3,Lydia H. Thompson,Widow,F,58,"New Jersey"
+4,Nancy Berry,Widow,F,58,"Virginia"
+5,Lucy Brown,Widow,F,56,"Georgia"
+6,Emma Justice,Widow,F,47,"Virginia"
+7,Patsy Boon,Widow,F,,"Virginia"
+8,Julia Kilby,Widow,F,54,"Virginia"
+9,Celia A. Brosier,Widow,F,59,"Virginia"
+10,Louisa Burnham,Widow,F,60,"Virginia"
+11,Matilda Burrell,Widow,F,45,"District of Columbia"
+12,Harriet Fuller,Widow,F,45,"Virginia"
+13,Betsey Coleman,Widow,F,45,"Louisana"
+14,Phelby Burden,Widow,F,85,"Mississippi"
+15,Patsey Hamilton,Widow,F,45,"Virginia"
+16,Mary G. Sprewell,Widow,F,43,"District of Columbia"
+17,Caroline Savage,Widow,F,47,"Florida"
+18,Georgiana Speight,Widow,F,60,"Virginia"
+19,Fanny Slaughter,Widow,F,35,"North Carolina"
+20,Caroline Portlock,Widow,F,,"Florida"
+21,Bettie Taylor,Widow,F,53,"Florida"
+22,Julia White,Widow,F,80,"Virginia"
+23,Sarah Warren,Widow,F,62,"Alabama"
+24,Margaret White,Widow,F,40,"Virginia"
+25,Jane Thomas,Widow,F,62,"Florida"
+26,Caroline Wilson,Widow,F,56,"Virginia"
+27,Huldah Cason,Widow,F,62,"Pennsylvania"
+28,Fannie Bridges,Widow,F,47,"Florida"
+29,Catherine Bess,Widow,F,62,"Virginia"
+30,Lucinda Ackiss,Widow,F,70,"Virginia"
+31,Dolly Allen,Widow,F,70,"Virginia"
+32,Sarah Bright,Widow,F,40,"Virginia"
+33,George Anna Berryman,Widow,F,60,"Virginia"
+34,Lucy Bowers,Widow,F,72,"Virginia"
+35,Margaret Collins,Widow,F,65,"Maryland"
+36,Mary Gallops,Widow,F,74,"North Carolina"
+37,Polly Fidget,Widow,F,55,"Virginia"
+38,Cherry Collins,Widow,F,52,"Virginia"
+39,Eliza A. Harris,Widow,F,40,"Virginia"
+40,Georganna Hodges,Widow,F,65,"Virginia"
+41,Leah J. Lynch,Widow,F,44,"Virginia"
+42,Teena Hinton,Widow,F,,"Virginia"
+43,Nancy Johnson,Widow,F,57,"North Carolina"
+44,Fannie F. Jones,Widow,F,54,"Virginia"
+45,Ophelia Jones,Widow,F,51,"Virginia"
+46,Sarah F. Hardy,Widow,F,53,"Virginia"
+47,Maria Sykes,Widow,F,62,"Virginia"
+48,Jeannette Perry,Widow,F,,"Virginia"
+49,Lydia A. Thoroughgood,Widow,F,39,"Virginia"
+50,Malinda Jarvis,Widow,F,58,"Virginia"
+51,Margaret Pettis,Widow,F,47,"Virginia"
+52,Sophronia Turner,Widow,F,44,"Virginia"
+53,Matilda Tilley,Widow,F,54,"Virginia"
+54,Betsy Whitehurst,Widow,F,58,"Virginia"
+55,Annie Savage,Widow,F,70,"Virginia"
+56,Eliza Williams,Widow,F,58,"Virginia"
+57,Nancy Williams,Widow,F,47,"Virginia"
+58,Henry Spruill,Veteran,M,,
+59,Lloyd W. Williams,Veteran,M,,
+60,Joseph P. Thompson,Veteran,M,,
+61,John Berry,Veteran,M,,
+62,Jack Brown,Veteran,M,,
+63,Alfred Justice,Veteran,M,,
+64,William Boon,Veteran,M,,
+65,Joseph Kilby,Veteran,M,,
+66,Simon S. Brosier,Veteran,M,,
+67,Edward Burnham,Veteran,M,,
+68,Henry Burrell,Veteran,M,,
+69,Isaac Fuller,Veteran,M,,
+70,John Coleman,Veteran,M,,
+71,Joseph B. Burden,Veteran,M,,
+72,Joseph Hamilton,Veteran,M,,
+73,John Sprewell,Veteran,M,,
+74,Isaac Savage,Veteran,M,,
+75,Nathan Willey,Veteran,M,,
+76,George Slaughter,Veteran,M,,
+77,William Portlock,Veteran,M,,
+78,Henry Taylor,Veteran,M,,
+79,Alfred White,Veteran,M,,
+80,Henry Warren,Veteran,M,,
+81,Isaac White,Veteran,M,,
+82,Joseph Thomas,Veteran,M,,
+83,Oscar Wilson,Veteran,M,,
+84,Edward Cason,Veteran,M,,
+85,Emanuel Bridges,Veteran,M,,
+86,George Bess,Veteran,M,,
+87,George L. Ackiss,Veteran,M,,
+88,John Allen,Veteran,M,,
+89,Moses Bright,Veteran,M,,
+90,Richard Berryman,Veteran,M,,
+91,Esau Bowers,Veteran,M,,
+92,Charles H. Collins,Veteran,M,,
+93,John Gallops,Veteran,M,,
+94,Isaac Fidget,Veteran,M,,
+95,John Collins,Veteran,M,,
+96,Wilson Harris,Veteran,M,,
+97,Albert Hodges,Veteran,M,,
+98,Cary Lynch,Veteran,M,,
+99,Charles Hinton,Veteran,M,,
+100,Granville Johnson,Veteran,M,,
+101,James N. Jones,Veteran,M,,
+102,Jesse Williams,Veteran,M,,
+103,John Hardy,Veteran,M,,
+104,Jonas Sykes,Veteran,M,,
+105,Jordan Perry,Veteran,M,,
+106,Miles E. Thoroughgood,Veteran,M,,
+107,Moody Jarvis,Veteran and family relation,M,,
+108,Richard Pettis,Veteran,M,,
+109,Richard Turner,Veteran,M,,
+110,Harry Tilley,Veteran,M,,
+111,Isaiah Whitehurst,Veteran,M,,
+112,Michael Savage,Veteran,M,,
+113,Miles Williams,Veteran,M,,
+114,Moses Williams,Veteran,M,,
+115,J.W. Edgewidge,Acquiantance,M,,
+116,Josiah E. William,Neighbor,M,,
+117,Juliet C. Cushing,Neighbor,F,,
+118,Catherine Garner,Acquiantance,F,,
+119,Samuel A. Wimm,Acquiantance,M,,
+120,Isaac Justin,Acquiantance,M,,
+121,George W. Skeeter,Acquiantance,M,,
+122,Shadrach Elliott,Acquiantance,M,,
+123,David Brosier,Witness,M,,
+124,Harriet A. Gofkins,Acquiantance,F,,
+125,John Wilson,Witness,M,,
+126,Harriet Gaits,Witness,F,,
+127,Eliza Robinson,Acquiantance,F,,
+128,S.J. Osborn,Witness,M,,
+129,David Thompson,Acquiantance,M,,
+130,John Brown,Acquiantance,M,,
+131,William Artis,Acquiantance,M,,
+132,Harrison Pruden,Veteran,M,,
+133,Britton Outlaw,Former master,F,,
+,,,,,
+135,George Sewell,Veteran,M,,
+136,Ella Pinkney,Neighbor,F,,
+137,Sarah Wells,Family relation,F,,
+,,,,,
+139,Stephen McRea,Acquiantance,M,,
+,,,,,
+141,Jordan Williams,Veteran,M,,
+142,William Nelson,Acquiantance,M,,
+143,Alberta Savage,Witness,F,,
+144,Susan Jackson,Acquiantance,F,,
+145,Maude Carver,Witness,F,,
+146,Henderson Savage,Acquiantance,M,,
+147,Mary A. Butt,Acquiantance,F,,
+148,Richard Joyner,Acquiantance,M,,
+138,Daniel Langley,Veteran,M,,
+150,Nicholas Langley,Veteran,M,,
+151,Philip Parker,Acquiantance,M,,
+152,Richard Merchant,Neighbor,M,,
+153,Catherine Miller,Witness,F,,
+154,James Fuller,Acquiantance,M,,
+155,George H. Wilson,Acquiantance,M,,
+156,Rachel Billops,Witness,F,,
+157,Walter West,Acquiantance,M,,
+158,Martha Wilson,Acquiantance,F,,
+159,William Gregory,Veteran,M,,
+160,Rebecca Garrison,Acquiantance,F,,
+161,Jesse Bayler,Acquiantance,M,,
+162,Catherine Sycamore,Family relation,F,,
+163,Martha McCoy,Acquiantance,F,,
+164,Grace W.J. Harris,Acquiantance,F,,
+165,Madison Bachus,Acquiantance,F,,
+166,Georginna B. Maclay,Acquiantance,F,,
+167,Rev. G.H.T. Byrd,Religious leader,M,,
+168,Susan Bailey,Acquiantance,F,,
+169,Edward Langley,Veteran,M,,
+170,Edward Harvey,Acquiantance,M,,
+171,Henry Sprewell,Family relation,M,,
+172,Saunders Carter,Acquiantance,M,,
+173,Harriet Boon,Acquiantance,F,,
+,,,,,
+175,Jane Jones,Family relation,F,,
+176,Isadora V. Strong,Religious leader,F,,
+177,Nelson Proctor,Veteran,M,,
+178,Barbara Scott,Family relation,F,,
+179,Billy Moseley,Acquiantance,M,,
+180,Mariah McRay,Acquiantance,F,,
+181,John Cory,Acquiantance,M,,
+,,,,,
+183,Jeanette Smith,Acquiantance,F,,
+184,Priscilla Harris,Acquiantance,F,,
+185,John N. Hinton,Veteran,M,,
+186,Nathaniel Saunders,Acquiantance,M,,
+187,Sarah Crocker,Acquiantance,F,,
+188,Martha Waters,Acquiantance,F,,
+,,,,,
+190,Josephine Miller,Acquiantance,F,,
+191,John D. Johnson,Acquiantance,M,,
+192,Alex Wright,Acquiantance,M,,
+193,Angeline O. Davidson,Witness,F,,
+194,George F. Hardy,Acquiantance,M,,
+195,Louis Butt,Acquiantance,M,,
+196,Charles Eason,Veteran,M,,
+197,Harry Denny,Acquiantance,M,,
+198,Samuel White,Acquiantance,M,,
+199,George Washington,Acquiantance,M,,
+200,Benjamin Snowden,Acquiantance,M,,
+201,Barbara Brown,Acquiantance,F,,
+202,Elizabeth Jones,Acquiantance,F,,
+203,Thomas Casey,Acquiantance,M,,
+204,Reinhold J. Halm,Attorney,M,,"Maryland"
+205,E.H. Galston & Co.,Attorney,M,,"District of Columbia"
+206,Byington & Wilson,Attorney,M,,"District of Columbia"
+207,J. Walter Hosier,Attorney,M,,"Virginia"
+208,Thomas Hopkins,Attorney,M,,"District of Columbia"
+209,M.E. Kloeber,Attorney,M,,"District of Columbia"
+210,W.H. Mills & Co.,Attorney,M,,"District of Columbia"
+211,Oscar Pillman,Attorney,M,,"Louisana"
+212,L.W. Pulies,Attorney,M,,"District of Columbia"
+213,Nathan Bickford,Attorney,M,,"District of Columbia"
+214,Charles G. Brown,Attorney,M,,"Virginia"
+215,Frank A. Butts,Attorney,M,,"District of Columbia"
+216,L.G. Wood & Co.,Attorney,M,,"District of Columbia"
+217,Lyon & Lyon,Attorney,M,,"District of Columbia"
+218,William W. Dudley & Co.,Attorney,M,,"District of Columbia"
+219,J.B. Cralle and Co.,Attorney,M,,"District of Columbia"
+220,Samuel W. Fox and Co.,Attorney,M,,"Florida"
+221,Edwin C. Dow,Attorney,M,,"Connecticut"
+222,A.B. Webb,Attorney,M,,"District of Columbia"
+223,Patrick O'Farrell,Attorney,M,,"District of Columbia"
+224,Simon Lyon,Attorney,M,,"District of Columbia"
+225,C.H. Callahan,Attorney,M,,"Ohio"
+226,J. Brainerd Hall and Son,Attorney,M,,"Massachusetts"
+227,A. Partlett Lloyd,Attorney,M,,"Maryland"
+228,W.L. Boyer & Co.,Attorney,M,,"District of Columbia"
+229,J.W. Morris,Attorney,M,,"District of Columbia"
+230,William Fletcher,Attorney,M,,"District of Columbia"
+231,Joseph H. Hunter,Attorney,M,,"District of Columbia"
+234,John Palmer,Attorney,M,,"Virginia"
+235,James H. Vermilya & Co.,Attorney,M,,"District of Columbia"
+236,R.A. & A.P. Lacey,Attorney,M,,District of Columbia
