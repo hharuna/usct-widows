@@ -25,7 +25,11 @@ This section also includes two networks that feature widows, veterans, testifier
 
 The [2nd regiment network](https://github.com/hharuna/usct-widows/blob/main/3.%20Networks/usct-widows-2nd-regiment.gephi) is created with 57 rows of data from the 2nd regiment and the [33rd regiment network](https://github.com/hharuna/usct-widows/blob/main/3.%20Networks/usct-widows-33rd-regiment.gephi) is created with 42 rows of data from the 33rd regiment. The first Gephi network uses the same data as the Cytoscape networks.
 
-The networks can be viewed in Gephi. The 2nd regiment network looks like [this](https://github.com/hharuna/usct-widows/blob/main/3.%20Networks/2nd%20gephi%20example2.png) on Gephi, and the 33rd regiment looks like [this](https://github.com/hharuna/usct-widows/blob/main/3.%20Networks/33rd%20gephi%20example2.png).
+The networks can be viewed in Gephi. 
+
+The 2nd regiment network looks like this on Gephi. ![2nd regiment network on Gephi](https://github.com/hharuna/usct-widows/blob/main/3.%20Networks/2nd%20gephi%20example2.png) 
+
+The 33rd regiment looks like this on Gephi. ![33rd regiment network on Gephi](https://github.com/hharuna/usct-widows/blob/main/3.%20Networks/33rd%20gephi%20example2.png).
 
 #### Network Key
 - The 2nd and 33rd regiment [directed networks](https://mathinsight.org/definition/directed_graph) focuses on the [weighting](https://www.sciencedirect.com/topics/computer-science/weighted-graph) of the edges. Edges from attorneys are weighted at 1, edges from testifiers are weighted at 3, edges from late husbands are weighted at 5. Nodes with the highest degree value (the number of edges directed to or from a node) are colored in darker green, with the color continusly changigng from dark to light based on degree value.
