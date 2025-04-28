@@ -11,6 +11,8 @@ This project-prototype collects data from all digitally available petitions (via
 - Visualize and analyze networks and communities supporting these pension claims for the scholarly public audience.
 
 ## Site Map
+(open links in a new tab for easy navigation)
+
 [Historical Context](https://github.com/hharuna/usct-widows/tree/main/0.%20Historical%20Context)
 
 [Datasets and Data Dictionary](https://github.com/hharuna/usct-widows/tree/main/2.%20Datasets)
