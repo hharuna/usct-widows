@@ -27,6 +27,8 @@ This project-prototype collects data from all digitally available petitions (via
 
 [Networks](https://github.com/hharuna/usct-widows/tree/main/3.%20Networks)
 
+[LR-QAP Results in Lower South Network](https://github.com/hharuna/usct-widows/blob/main/5.%20Statistical%20Analysis/hekjfgvehwj.html)
+
 ## Project  Information
 Lead Investigator: Halima Haruna (haruna.h@northeastern.edu)
 
