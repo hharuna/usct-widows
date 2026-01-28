@@ -7,6 +7,14 @@ My objective is also to compare regiment networks in different principal locatio
 
 Some of my findings include the power of attorneys. In the 2nd regiment network, Nathan Bickford, a Washington D.C. attorney has the largest edgecount and indegree value of 7. In the 33rd regiment network, R.F. Greaves, a South Carolina attorney, has the largest degree value. 
 
+## Interactive Networks
+
+The two networks can be viewed on the Web at the links below. The networks are open for explorartion and analysis from users based on the node attributes provided. More information on the tools used to host the networks online can be found on the [Methods page](https://github.com/hharuna/usct-widows/tree/main/1.%20Methods).
+
+[Interactive Network of 2nd Regiment](https://hharuna.github.io/interactivegraphs/network/#)
+
+[Interactive Network of 33rd Regiment](https://hharuna.github.io/interactivegraphs2/network/)
+
 ### Cytoscape
 
 This section includes two early networks created with 59 rows of data from the 2nd regiment on widows and their pension claims between 1871 and 1924. The network features the widows' late husbands, testifiers to their claims and their attorneys.
@@ -33,14 +41,6 @@ The 33rd regiment looks like this on Gephi. ![33rd regiment network on Gephi](ht
 
 #### Network Key
 - The 2nd and 33rd regiment [directed networks](https://mathinsight.org/definition/directed_graph) focuses on the [weighting](https://www.sciencedirect.com/topics/computer-science/weighted-graph) of the edges. Edges from attorneys are weighted at 1, edges from testifiers are weighted at 3, edges from late husbands are weighted at 5. Nodes with the highest degree value (the number of edges directed to or from a node) are colored in darker green, with the color continusly changigng from dark to light based on degree value.
-
-## Interactive Networks
-
-The two networks can be viewed on the Web at the links below. The networks are open for explorartion and analysis from users based on the node attributes provided. More information on the tools used to host the networks online can be found on the [Methods page](https://github.com/hharuna/usct-widows/tree/main/1.%20Methods).
-
-[Interactive Network of 2nd Regiment](https://hharuna.github.io/interactivegraphs/network/#)
-
-[Interactive Network of 33rd Regiment](https://hharuna.github.io/interactivegraphs2/network/)
 
 ## Project  Information
 Lead Investigator: Halima Haruna (haruna.h@northeastern.edu)
