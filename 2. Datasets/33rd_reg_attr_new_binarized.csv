@@ -1,0 +1,202 @@
+ID,Label,Gender,Role
+1,Annie Gool,1,1
+2,Sallie Crawford,1,1
+3,Mary E. Parker,1,1
+4,Jane Lemon,1,1
+5,Nellie King,1,1
+6,Sarah E. Randolph,1,1
+7,Betsey Adams,1,1
+8,Rachel Wallace,1,1
+9,Lavinia Hagens,1,1
+10,Pender Powell,1,1
+11,Matilda Williams,1,1
+12,Maria Floyd,1,1
+13,Elizabeth Grant,1,1
+14,Diana Grayson,1,1
+15,Charlotte Fisher,1,1
+16,Carrie McGill,1,1
+17,Rachel Hammond,1,1
+18,Clarissa Dingle,1,1
+19,Olivia Geddis,1,1
+20,Sarah Baker,1,1
+21,Eva Grayson,1,1
+22,Matilda Managault,1,1
+23,Isabella Hearns,1,1
+24,Mollie Marks,1,1
+25,Charlotte Talbot,1,1
+26,Martha Taylor,1,1
+27,Sibbie Trewell,1,1
+28,Katie Polite,1,1
+29,Dora Richardson,1,1
+30,Ellen Haynes,1,1
+31,Lena Seymour,1,1
+32,Hagar Fuller,1,1
+33,Nancy Grant,1,1
+34,Flora Martis,1,1
+35,Sarah Alfred,1,1
+36,Margaret Benjamin,1,1
+37,Hannah Taylor,1,1
+38,Dolly Deloney,1,1
+39,Mintie Williams,1,1
+40,Celia King,1,1
+41,Martha Bolles,1,1
+42,Sylvia Jones,1,1
+43,Joseph Gool,0,0
+44,Nero Crawford,0,0
+45,Charles E. Parker,0,0
+46,James Lemon,0,0
+47,Lancaster King,0,0
+48,William J. Randolph,0,0
+49,Richard Adams,0,0
+50,Thomas Wallace,0,0
+51,Frank Hagens,0,0
+52,Isaac Powell,0,0
+53,Joseph Williams,0,0
+54,John Floyd,0,0
+55,Lester Grant,0,0
+56,Daniel Grayson,0,0
+57,Henry Fisher,0,0
+58,Zachariah McGill,0,0
+59,David Hammond,0,0
+60,Robert Dingle,0,0
+61,Stephney Geddis,0,0
+62,Thomas Baker,0,0
+63,Alexander Wing,0,0
+64,Benjamin Managault,0,0
+65,Edward Hearns,0,0
+66,Samuel Marks,0,0
+67,Charles Talbot,0,0
+68,Edward Taylor,0,0
+69,Jonas Trewell,0,0
+70,Morris Polite,0,0
+71,Thomas Richardson,0,0
+72,Robert Haynes,0,0
+73,Alexander Seymour,0,0
+74,Ishmael Fuller,0,0
+75,Thomas Grant,0,0
+76,Samuel Martis,0,0
+77,William Alfred,0,0
+78,William Benjamin,0,0
+79,Douglas T. Taylor,0,0
+80,Horace Deloney,0,0
+81,Lazarus Williams,0,0
+82,James King,0,0
+83,Moses Cook,0,0
+84,Paul Jones,0,0
+85,Isaac King,0,0
+86,Robert Goodwin,0,0
+87,W.H. London,0,0
+88,Charles L. Bass,0,0
+89,Edward Thomas,0,0
+90,James W. Denny,0,0
+91,Sebby Grant,0,0
+92,Augustus Cockrell,0,0
+93,Jonas Fields,0,0
+94,Simon Weber,0,0
+95,James Hammond,0,0
+96,Moses Parish,0,0
+97,Benjamin King,0,0
+98,Richard Washington,0,0
+99,J.I. Washington,0,0
+100,Richard Howard,0,0
+101,Isaac Heyward,0,0
+102,Jacob Jones,0,0
+103,Jennie Jenkins,1,0
+104,March Haywood,0,0
+105,Juno Washington,1,0
+106,John Brown,0,0
+107,Margaret Bordley,1,0
+108,Eve Fields,1,0
+109,Richard Washington,0,0
+110,Dick Perry,0,0
+111,Cuffy Scott,0,0
+112,Isabel Shephard,1,0
+113,Frances Van Dyke,1,0
+114,Hager Miller,1,0
+115,Tobias Richardson,0,0
+116,Louisa Ferguson,1,0
+117,Anna Bailey,1,0
+118,Phillip Martis,0,0
+119,Ellen Garven,1,0
+120,Gibson Breaker,0,0
+121,Peggie Alston,1,0
+122,Martin Dixon,0,0
+123,William Taylor,0,0
+124,Lucy Green,1,0
+125,Rebecca Polite,1,0
+126,Harriet Singleton,1,0
+127,Edward Nelson,0,0
+128,Clara Burns,1,0
+129,Revel W. Porter,0,0
+130,William Hillary,0,0
+131,Aaron Evans,0,0
+132,Thomas Randolph,0,0
+133,Acey Hilton,0,0
+134,Benjamin Wright,0,0
+135,Hector Fields,0,0
+136,Smith Underwood,0,0
+137,Amelia Kimball,1,0
+138,Lazarus Williams,0,0
+139,Della Baisden,1,0
+140,Charlotte Grayson,1,0
+141,Asa Hill,1,0
+142,Susan Wallace,1,0
+143,Culliott Gibbes,0,0
+144,Joseph Jenkins,0,0
+145,Rodwell Jenkins,0,0
+146,Joseph Fields,0,0
+147,Hilliard Grayson,0,0
+148,Culliott Gibbes,0,0
+149,Lucy Green,1,0
+151,Margaret Washington,1,0
+152,Cuffy Scott,0,0
+153,Celia Mungin,1,0
+154,Jane Parker,1,0
+155,Florence F. Andrew,1,0
+156,Richard Washington,0,0
+157,William Seymour,0,0
+158,Katie Grayson,1,0
+159,Peggy Grant,1,0
+160,Emmanuel Washington,0,0
+161,Hester Riley,0,0
+162,Florida Singleton,0,0
+163,William Wright,0,0
+164,John Floyd,0,0
+165,Louisa Town,1,0
+166,Isaac Singleton,0,0
+167,Maria Bryan,1,0
+168,John A. Laring,0,0
+169,R.F. Greaves,0,0
+170,Geo E. Lemon,0,0
+171,James Tanner,0,0
+172,H.D. Phillips,0,0
+173,William Fletcher,0,0
+174,P.B. Bedford,0,0
+175,E.H. Gelston & co.,0,0
+176,James Tanner,0,0
+177,F.L. Satterthwaite,0,0
+178,R.F. Greaves,0,0
+179,R.F. Greaves,0,0
+180,W.H. Washington,0,0
+181,Nathan Bickford,0,0
+182,R.F. Greaves,0,0
+183,William Fletcher,0,0
+184,William Fletcher,0,0
+185,Nathan Bickford,0,0
+186,M. Elliott Waggaman,0,0
+187,Reuben D. Smith,0,0
+188,H..D. & R.S. O'Brien,0,0
+189,Joseph H. Hunter,0,0
+190,S.I. Wright & Co,0,0
+191,William W. Dudley,0,0
+192,R.F. Greaves,0,0
+193,William W. Dudley,0,0
+194,E.A. Crofit,0,0
+195,Nathan Bickford,0,0
+196,R.F. Greaves,0,0
+197,T.W. Tallmadge,0,0
+198,Soule & Co.,0,0
+199,L.G. Wood & Co.,0,0
+200,Nathan Bickford,0,0
+201,William W. Dudley,0,0
+202,T.W. Tallmadge,0,0

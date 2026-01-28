@@ -1,0 +1,229 @@
+Node,Name,Gender,Role
+1,Jane Spruill,1,1
+2,Ellenora Williams,1,1
+3,Lydia H. Thompson,1,1
+4,Nancy Berry,1,1
+5,Lucy Brown,1,1
+6,Emma Justice,1,1
+7,Patsy Boon,1,1
+8,Julia Kilby,1,1
+9,Celia A. Brosier,1,1
+10,Louisa Burnham,1,1
+11,Matilda Burrell,1,1
+12,Harriet Fuller,1,1
+13,Betsey Coleman,1,1
+14,Phelby Burden,1,1
+15,Patsey Hamilton,1,1
+16,Mary G. Sprewell,1,1
+17,Caroline Savage,1,1
+18,Georgiana Speight,1,1
+19,Fanny Slaughter,1,1
+20,Caroline Portlock,1,1
+21,Bettie Taylor,1,1
+22,Julia White,1,1
+23,Sarah Warren,1,1
+24,Margaret White,1,1
+25,Jane Thomas,1,1
+26,Caroline Wilson,1,1
+27,Huldah Cason,1,1
+28,Fannie Bridges,1,1
+29,Catherine Bess,1,1
+30,Lucinda Ackiss,1,1
+31,Dolly Allen,1,1
+32,Sarah Bright,1,1
+33,George Anna Berryman,1,1
+34,Lucy Bowers,1,1
+35,Margaret Collins,1,1
+36,Mary Gallops,1,1
+37,Polly Fidget,1,1
+38,Cherry Collins,1,1
+39,Eliza A. Harris,1,1
+40,Georganna Hodges,1,1
+41,Leah J. Lynch,1,1
+42,Teena Hinton,1,1
+43,Nancy Johnson,1,1
+44,Fannie F. Jones,1,1
+45,Ophelia Jones,1,1
+46,Sarah F. Hardy,1,1
+47,Maria Sykes,1,1
+48,Jeannette Perry,1,1
+49,Lydia A. Thoroughgood,1,1
+50,Malinda Jarvis,1,1
+51,Margaret Pettis,1,1
+52,Sophronia Turner,1,1
+53,Matilda Tilley,1,1
+54,Betsy Whitehurst,1,1
+55,Annie Savage,1,1
+56,Eliza Williams,1,1
+57,Nancy Williams,1,1
+58,Henry Spruill,0,0
+59,Lloyd W. Williams,0,0
+60,Joseph P. Thompson,0,0
+61,John Berry,0,0
+62,Jack Brown,0,0
+63,Alfred Justice,0,0
+64,William Boon,0,0
+65,Joseph Kilby,0,0
+66,Simon S. Brosier,0,0
+67,Edward Burnham,0,0
+68,Henry Burrell,0,0
+69,Isaac Fuller,0,0
+70,John Coleman,0,0
+71,Joseph B. Burden,0,0
+72,Joseph Hamilton,0,0
+73,John Sprewell,0,0
+74,Isaac Savage,0,0
+75,Nathan Willey,0,0
+76,George Slaughter,0,0
+77,William Portlock,0,0
+78,Henry Taylor,0,0
+79,Alfred White,0,0
+80,Henry Warren,0,0
+81,Isaac White,0,0
+82,Joseph Thomas,0,0
+83,Oscar Wilson,0,0
+84,Edward Cason,0,0
+85,Emanuel Bridges,0,0
+86,George Bess,0,0
+87,George L. Ackiss,0,0
+88,John Allen,0,0
+89,Moses Bright,0,0
+90,Richard Berryman,0,0
+91,Esau Bowers,0,0
+92,Charles H. Collins,0,0
+93,John Gallops,0,0
+94,Isaac Fidget,0,0
+95,John Collins,0,0
+96,Wilson Harris,0,0
+97,Albert Hodges,0,0
+98,Cary Lynch,0,0
+99,Charles Hinton,0,0
+100,Granville Johnson,0,0
+101,James N. Jones,0,0
+102,Jesse Williams,0,0
+103,John Hardy,0,0
+104,Jonas Sykes,0,0
+105,Jordan Perry,0,0
+106,Miles E. Thoroughgood,0,0
+107,Moody Jarvis,0,0
+108,Richard Pettis,0,0
+109,Richard Turner,0,0
+110,Harry Tilley,0,0
+111,Isaiah Whitehurst,0,0
+112,Michael Savage,0,0
+113,Miles Williams,0,0
+114,Moses Williams,0,0
+115,J.W. Edgewidge,0,0
+116,Josiah E. William,0,0
+117,Juliet C. Cushing,1,0
+118,Catherine Garner,1,0
+119,Samuel A. Wimm,0,0
+120,Isaac Justin,0,0
+121,George W. Skeeter,0,0
+122,Shadrach Elliott,0,0
+123,David Brosier,0,0
+124,Harriet A. Gofkins,1,0
+125,John Wilson,0,0
+126,Harriet Gaits,1,0
+127,Eliza Robinson,1,0
+128,S.J. Osborn,0,0
+129,David Thompson,0,0
+130,John Brown,0,0
+131,William Artis,0,0
+132,Harrison Pruden,0,0
+133,Britton Outlaw,1,0
+135,George Sewell,0,0
+136,Ella Pinkney,1,0
+137,Sarah Wells,1,0
+138,Daniel Langley,0,0
+139,Stephen McRea,0,0
+141,Jordan Williams,0,0
+142,William Nelson,0,0
+143,Alberta Savage,1,0
+144,Susan Jackson,1,0
+145,Maude Carver,1,0
+146,Henderson Savage,0,0
+147,Mary A. Butt,1,0
+148,Richard Joyner,0,0
+150,Nicholas Langley,0,0
+151,Philip Parker,0,0
+152,Richard Merchant,0,0
+153,Catherine Miller,1,0
+154,James Fuller,0,0
+155,George H. Wilson,0,0
+156,Rachel Billops,1,0
+157,Walter West,0,0
+158,Martha Wilson,1,0
+159,William Gregory,0,0
+160,Rebecca Garrison,1,0
+161,Jesse Bayler,0,0
+162,Catherine Sycamore,1,0
+163,Martha McCoy,1,0
+164,Grace W.J. Harris,1,0
+165,Madison Bachus,1,0
+166,Georginna B. Maclay,1,0
+167,Rev. G.H.T. Byrd,0,0
+168,Susan Bailey,1,0
+169,Edward Langley,0,0
+170,Edward Harvey,0,0
+171,Henry Sprewell,0,0
+172,Saunders Carter,0,0
+173,Harriet Boon,1,0
+175,Jane Jones,1,0
+176,Isadora V. Strong,1,0
+177,Nelson Proctor,0,0
+178,Barbara Scott,1,0
+179,Billy Moseley,0,0
+180,Mariah McRay,1,0
+181,John Cory,0,0
+183,Jeanette Smith,1,0
+184,Priscilla Harris,1,0
+185,John N. Hinton,0,0
+186,Nathaniel Saunders,0,0
+187,Sarah Crocker,1,0
+188,Martha Waters,1,0
+190,Josephine Miller,1,0
+191,John D. Johnson,0,0
+192,Alex Wright,0,0
+193,Angeline O. Davidson,1,0
+194,George F. Hardy,0,0
+195,Louis Butt,0,0
+196,Charles Eason,0,0
+197,Harry Denny,0,0
+198,Samuel White,0,0
+199,George Washington,0,0
+200,Benjamin Snowden,0,0
+201,Barbara Brown,1,0
+202,Elizabeth Jones,1,0
+203,Thomas Casey,0,0
+204,Reinhold J. Halm,0,0
+205,E.H. Galston & Co.,0,0
+206,Byington & Wilson,0,0
+207,J. Walter Hosier,0,0
+208,Thomas Hopkins,0,0
+209,M.E. Kloeber,0,0
+210,W.H. Mills & Co.,0,0
+211,Oscar Pillman,0,0
+212,L.W. Pulies,0,0
+213,Nathan Bickford,0,0
+214,Charles G. Brown,0,0
+215,Frank A. Butts,0,0
+216,L.G. Wood & Co.,0,0
+217,Lyon & Lyon,0,0
+218,William W. Dudley & Co.,0,0
+219,J.B. Cralle and Co.,0,0
+220,Samuel W. Fox and Co.,0,0
+221,Edwin C. Dow,0,0
+222,A.B. Webb,0,0
+223,Patrick O'Farrell,0,0
+224,Simon Lyon,0,0
+225,C.H. Callahan,0,0
+226,J. Brainerd Hall and Son,0,0
+227,A. Partlett Lloyd,0,0
+228,W.L. Boyer & Co.,0,0
+229,J.W. Morris,0,0
+230,William Fletcher,0,0
+231,Joseph H. Hunter,0,0
+234,John Palmer,0,0
+235,James H. Vermilya & Co.,0,0
+236,R.A. & A.P. Lacey,0,0
