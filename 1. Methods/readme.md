@@ -2,7 +2,7 @@
 
 ## Limited Engagement with Machine Learning
 Generally, this section is meant to make my research process transparent and reproducible, however much of the process developed as the project went along. Very little of the process documented here was pre-planned. That means that the process itself is subject to error. The process can be described as qualitative and subjective as it involved reading scanned handwritten documents without the aid of machine learning.
-However, I have tried to maintain as much clarity as possible in my process outside of the process of reading the documents. I used OpenRefine to clean and standardize my data, RAWGraphs for primary graphs and Cytoscape and Gephi for network analysis.
+However, I have tried to maintain as much clarity as possible in my process outside of the process of reading the documents. I used OpenRefine to clean and standardize my data, RAWGraphs for primary graphs, and Cytoscape, Gephi and R for network analysis.
 
 ## Methods Summary
 The goal of this project is the investigation of the “grassroots pension networks” by the analysis and comparison of the networks using advanced network measurement metrics in order to ascertain the logics of community that held the networks together.
@@ -33,8 +33,9 @@ Therefore, the project's methods hinge on data collection practices and network 
         - I used a Weighting for each directed edge type: Attorney - Weight 1, Testifier - Weight 3, Related Soldier - Weight 5
     - Interactive networks: [This blog post](http://blog.miz.space/tutorial/2020/01/05/gephi-tutorial-sigma-js-plugin-publishing-interactive-graph-online/) by [Volodymyr Miz](https://www.linkedin.com/in/volodymyrmiz/), a machine learning specialist, provided information on how to host Gephi networks on GitHub pages.
 - **Network and graph analysis**
-    - Network analysis occured on both Gephi and Cytoscape. I used Gephi's data laboratory to calculate [stress](https://symbio6.nl/en/blog/analysis/stress-centrality) and [betweeness centrality](https://symbio6.nl/en/blog/analysis/betweenness-centrality) in both **directed** networks. [This video](https://www.youtube.com/watch?v=PuWNYB0u_gM) walks the user through the steps to calculate centrality in Gephi. The image below shows the table in Gephi's data laboratory.
+    - Gephi and Cytoscape. I used Gephi's data laboratory to calculate [stress](https://symbio6.nl/en/blog/analysis/stress-centrality) and [betweeness centrality](https://symbio6.nl/en/blog/analysis/betweenness-centrality) in both **directed** networks. [This video](https://www.youtube.com/watch?v=PuWNYB0u_gM) walks the user through the steps to calculate centrality in Gephi. The image below shows the table in Gephi's data laboratory.
 ![Data Lab Gephi image](https://github.com/hharuna/usct-widows/blob/main/1.%20Methods/Screenshot%202025-03-13%20at%203.56.58%E2%80%AFPM.png)
+    - R. Among other things, R can be used to analyze and visualize networks. R also allows users to use statistical methods to better understand the network data.
 
 
 ## Project  Information
