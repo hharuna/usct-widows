@@ -2,7 +2,7 @@
 
 ## Summary & Disclaimers
 The two datasets in this project are collected from 57 and 42 approved pension claims filed by widows of veterans of the 2nd and 33rd regiments of the United States Colored Troops respectively. Some of the datasets were used in Gephi and some were used in R. The full datasets, which were cleaned for ease of use and Gephi, are also included. 
-There are empty cells in the Gephi node lists due to unavailability of the information. In the cases of veterans, testifiers and attorneys, their ages were not recorded in the claims. The empty cells in the Gephi edge lists are a result of a null edge. The attribute data for R is binarized for gender and widowhood. 
+The edge lists for Gephi include weighting for relationships to widows: 5 for marriage, 3 for acquaintance/family, and 1 for attorneys. There are empty cells in the Gephi node lists due to unavailability of the information. In the cases of veterans, testifiers and attorneys, their ages were not recorded in the claims. The empty cells in the Gephi edge lists are a result of a null edge. The attribute data for R is binarized for gender and widowhood. 
 
 ## Data Sources
 The primary source for the data here is from [Department of the Interior, Bureau of Pensions. (1849 - 1930) and Veterans’s Administration. (07/21/1930 - 03/15/1989), Case Files of Approved Pension Applications of Widows and Other Dependents of the Army and Navy Who Served Mainly in the Civil War and the War With Spain, Records of the Department of Veterans Affairs, n.d.](https://catalog.archives.gov/id/300020) This data was collected manually from digitized petitions between November 2024 and March 2025. 
