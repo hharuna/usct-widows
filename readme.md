@@ -23,11 +23,11 @@ This project-prototype collects data from all digitally available petitions (via
 
 [Interactive Network of 33rd Regiment](https://hharuna.github.io/interactivegraphs2/network/)
 
-[Graphs](https://github.com/hharuna/usct-widows/tree/main/4.%20Graphs)
+[Data Viz](https://github.com/hharuna/usct-widows/tree/main/4.%20Data%20Viz)
 
 [Networks](https://github.com/hharuna/usct-widows/tree/main/3.%20Networks)
 
-[LR-QAP Results in Lower South Network](https://github.com/hharuna/usct-widows/blob/main/5.%20Statistical%20Analysis/hekjfgvehwj.html)
+[Statistical Analysis](https://github.com/hharuna/usct-widows/tree/main/5.%20Statistical%20Analysis)
 
 ## Project  Information
 Lead Investigator: Halima Haruna (haruna.h@northeastern.edu)
