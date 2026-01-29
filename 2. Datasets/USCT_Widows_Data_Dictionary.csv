@@ -1,0 +1,37 @@
+Data Exclusions,"The data only focuses on Widows, and excludes Minor Children, Parents and other kinds of veteran dependents.
+Only those who served as Corporal or below, no petitions of widows of Majors included. See this link: https://www.army.mil/ranks/ for details.
+Locations of widows recorded is the location of the widows recorded on approved applications.",
+A Note on Military Regiments,"Regiments can be light artillery, cavalry, or infantry. Company letters do not overlap with these splits i.e. if the soldiers are both in the 2nd U.S.C.T. Regiment, Company A; both soldiers were either infantry, cavalry, or light artillery.
+The 2nd regiment petitions documented are from the 2nd Infantry regiment. Most regiments are organized by strategy: artillery, cavalry and infantry. Infantry regiments are typically foot soldiers, cavalry regiments are soldiers on horseback, and artillery regiments are armed soldiers who travel with heavy artillery.
+54 of the 59 petitions are from widows of privates. Privates are the lowest rank of enlisted soldiers in the army who make up a company. Companies are led by corporals of which there are 4 widows’ claims in this project. One widow featured was married to a sergeant, and another to a military musician.",
+,,
+Term,Definition,Format
+Petition Number,Numeric value starting from 1 added to each petition. Continuous value using numeric change.,Numeric Value
+Link,Web link to individual petition on the National Archives website,String
+Name of Claimant,Full name of widow named in petition as claimant.,String
+Age when petition was first filed,"Widow’s age when the petition was first filed. Collected from Declarations or Affidavit. Numeric value, if age is unknown, is registered as “Unknown.”",Numeric Value
+Location of widow at first filing (county),"Widow’s location at first petition filing, county only.",String
+Location (state),"Widow’s location at first petition filing, state only.",String
+Related Soldier/Pensioner,Named soldier married to widow/claimant.,String
+Relation to Civil War Soldier,Early data included other dependents such as Mothers and Children. Recent data (higher numeric value of petition number) excludes any dependents that are not Widows.,String
+Regiment of the USCT,Record of regiment veteran husband served in during the Civil War.,String
+Company,Record of company veteran husband served in during the Civil War. All veteran husbands served as Privates except noted in addition to Company.,String
+Children under the age of 16,Recent data collected includes a boolean category (True/False) of record of children under the age of 16 (minors).,Boolean Value
+Soldier/Pensioner Death Date,Record of death date of widow’s veteran husband.,Date
+Name of Testifier to Pension Claim 1,"First and last name of testifier recorded in pension claim. Testifier can refer to both “Witness,” who is present and witness affidavit among others.",String
+Neighbor,Affiant is well and personally acquainted with claimant and has lived within (x) miles of claimant and has seen and conversed with him often.,String
+Enslaved together,Recorded in deposition or affidavit as having worked for the same master or lived on the same plantation as Widow as workers.,String
+Acquaintance,"Recorded in deposition or affidavit as having known Widow and/or Soldier for any number of years. Typically used for verifying marriages, births, deaths of soldiers etc.",String
+Witness,Recorded as witness to affidavit. Does not provide an account in the pension claim on behalf of Widow.,String
+Family relation,Recorded in deposition or affidavit as related by blood or marriage to Widow or Soldier. Might include now includes long term attachment (over 10 years or since childhood) and Family relation also includes presence at birth of claimant’s children,String
+Veteran,Testifier met and served with widow’s soldier during service,String
+Date of Testimony,"Recorded date of affidavit, deposition, or letter of Testifier 1",Date
+Name of Testifier 2,"First and last name of 2nd testifier recorded in pension claim. Testifier can refer to both “Witness,” who is present and witness affidavit among others.",String
+Relation of Testifier 2,Same as controlled vocabulary as Relation to Testifier 1,String
+Date of 2nd Testimony,"Recorded date of affidavit, deposition, or letter of Testifier 2",Date
+First Petition File Date,Date of first application is recorded on Widow’s Pension document by Veterans Affairs department.,Date
+Pension Approval Date (some are backdated or backfilled),Pension Approval Date is the latest date of approval signed by Reviewer on the Widow Pension form.,Date
+Initial Rejection,Recent data collected includes a boolean category (True/False) of record of prior rejection of widow’s claim.,Boolean Value
+Attorney/Public Notary,"Record of attorney, solicitor or public notary on affidavits. Recent data features only attorneys on Widow Pension forms.",String
+Attorney's office location (city),Record of city location of Attorney at time of approved pension,String
+Attorney's office location (state),Record of state location of Attorney at time of approved pension,String
