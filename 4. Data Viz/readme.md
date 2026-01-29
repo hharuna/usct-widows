@@ -1,11 +1,11 @@
-# U.S.C.T. Widows Project: Graphs
+# U.S.C.T. Widows Project: Data Viz
 
-## Graph Summary
+## Summary
 This is a collection of graphs created using data of locations and persons featured in widows of U.S.C.T. 2nd regiment soldiers's pension claims between 1871 and 1924. The graphs were created using RAWGraphs' online platform.
 
 The [dataset](https://github.com/hharuna/usct-widows/blob/main/4.%20Graphs/Graph-data-1-23-25-Sheet1-csv.csv) I used, after processing in OpenRefine, is also in this repository.
 
-## Graph Breakdown
+## Breakdown
 
 In order to start drawing out patterns in my data, I took my general dataset to create visualizations with the RawGraphs web platform. This early dataset was the first attempt at analysing pension claims and making the argument for a "grassroots pension network."
 
