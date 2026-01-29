@@ -19,7 +19,8 @@ The two networks can be viewed on the Web at the links below. The networks are o
 
 This section includes two early networks created with 59 rows of data from the 2nd regiment on widows and their pension claims between 1871 and 1924. The network features the widows' late husbands, testifiers to their claims and their attorneys.
 
-The [first network](https://github.com/hharuna/usct-widows/blob/main/3.%20Networks/1.%20Widows%2C%20Veterans%2C%20Testifiers%20and%20Attorneys.cys) features the widows, veterans, testifiers, and attorneys as nodes and relationships as edges. The [second network](https://github.com/hharuna/usct-widows/blob/main/3.%20Networks/2.%20Testifiers%20and%20Attorneys.cys) is in progress and only features widows and testifiers to their pension claims.
+The [first network](https://github.com/hharuna/usct-widows/blob/main/3.%20Network%20Visualizations/1.%20Widows%2C%20Veterans%2C%20Testifiers%20and%20Attorneys.cys) features the widows, veterans, testifiers, and attorneys as nodes and relationships as edges. 
+The [second network](https://github.com/hharuna/usct-widows/blob/main/3.%20Network%20Visualizations/2.%20Testifiers%20and%20Attorneys.cys) is in progress and only features widows and testifiers to their pension claims.
 
 The networks can be viewed in Cytoscape.
 
@@ -31,7 +32,8 @@ The networks can be viewed in Cytoscape.
 
 This section also includes two networks that feature widows, veterans, testifiers, and attroneys made with Gephi. 
 
-The [2nd regiment network](https://github.com/hharuna/usct-widows/blob/main/3.%20Networks/usct-widows-2nd-regiment.gephi) is created with 57 rows of data from the 2nd regiment and the [33rd regiment network](https://github.com/hharuna/usct-widows/blob/main/3.%20Networks/usct-widows-33rd-regiment.gephi) is created with 42 rows of data from the 33rd regiment. The first Gephi network uses the same data as the Cytoscape networks.
+The [2nd regiment network](https://github.com/hharuna/usct-widows/blob/main/3.%20Network%20Visualizations/usct-widows-2nd-regiment-updated.gephi) is created with 57 rows of data from the 2nd regiment. 
+The [33rd regiment network](https://github.com/hharuna/usct-widows/blob/main/3.%20Network%20Visualizations/usct-widows-33rd-regiment.gephi) is created with 42 rows of data from the 33rd regiment. The first Gephi network uses the same data as the Cytoscape networks.
 
 The networks can be viewed in Gephi. 
 
