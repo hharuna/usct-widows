@@ -19,15 +19,27 @@ This project-prototype collects data from all digitally available petitions (via
 
 [Methods](https://github.com/hharuna/usct-widows/tree/main/1.%20Methods)
 
-[Interactive Network of 2nd Regiment](https://hharuna.github.io/interactivegraphs/network/#)
-
-[Interactive Network of 33rd Regiment](https://hharuna.github.io/interactivegraphs2/network/)
-
 [Data Viz](https://github.com/hharuna/usct-widows/tree/main/4.%20Data%20Viz)
 
 [Networks](https://github.com/hharuna/usct-widows/tree/main/3.%20Networks)
 
 [Statistical Analysis](https://github.com/hharuna/usct-widows/tree/main/5.%20Statistical%20Analysis)
+
+## Interactive Networks
+
+[Interactive Network of 2nd Regiment](https://hharuna.github.io/interactivegraphs/network/#)
+
+[Interactive Network of 33rd Regiment](https://hharuna.github.io/interactivegraphs2/network/)
+
+### User Guide
+
+Navigate & Zoom
+- Pan: Click and drag anywhere on the network background to move the view.
+- Zoom: Use your mouse or track pad to expand and shrink your view.
+
+Explore Actors
+- Click a Node: The actor will be highlighted. Information about this specific actor will appear in a dedicated panel to the right of the display.
+- Search Names: Using the search bar to pull a list of actors with the name.
 
 ## Project  Information
 Lead Investigator: Halima Haruna (haruna.h@northeastern.edu)
