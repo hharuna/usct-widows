@@ -1,7 +1,7 @@
 # U.S.C.T. Widows Project: Statistical Analysis
 
 ## Analysis Summary
-This is a collection of research output from statistical network analysis of the 2nd and 33rd regiment network data. For the purposes of more significant analysis, I assumed the network of claims from the 2nd regiment, which were primarily filed in the state of Georgia, represented the Upper South. I assumed that the network of 33rd regiment claims, primarily filed in South Carolina, then represented the Lower South. The regional assumption supports a comparative framework of network analysis. The network data is symmetric with no weighted edges.
+This is a collection of research output from statistical network analysis of the 2nd and 33rd regiment network data. For the purposes of more significant analysis, I assumed the network of claims from the 2nd regiment, which were primarily filed in the state of Virginia, represented the Upper South. I assumed that the network of 33rd regiment claims, primarily filed in South Carolina, then represented the Lower South. The regional assumption supports a comparative framework of network analysis. The network data is symmetric with no weighted edges.
 
 The datasets I used are in this repository at [Datasets](https://github.com/hharuna/usct-widows/tree/main/2.%20Datasets).
 
