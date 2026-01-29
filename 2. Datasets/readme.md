@@ -41,9 +41,7 @@ Please see below for an example of the approval form, pension declaration form a
 
 [33rd Regiment edge list for R](https://github.com/hharuna/usct-widows/blob/main/2.%20Datasets/33rd%20regiment%20simple%20edge%20list%20w_%20attrys_new.csv)
 
-[Parent Dataset](https://docs.google.com/spreadsheets/d/1YecUt_40J-x2H4w_2LAkcT9nBeTGIOR2to0zMN6wyrs/edit?gid=0#gid=0)
-
-[Data Dictionary](https://docs.google.com/document/d/1m7fjO3q1YqrYe1gWYUqbTSkSrR1lrlFeIWDge9fDmgs/edit?tab=t.0)
+[Data Dictionary](https://github.com/hharuna/usct-widows/blob/main/2.%20Datasets/USCT_Widows_Data_Dictionary.csv)
 
 ## Project  Information
 Lead Investigator: Halima Haruna (haruna.h@northeastern.edu)
