@@ -37,9 +37,9 @@ The [33rd regiment network](https://github.com/hharuna/usct-widows/blob/main/3.%
 
 The networks can be viewed in Gephi. 
 
-The 2nd regiment network looks like this on Gephi. ![2nd regiment network on Gephi](https://github.com/hharuna/usct-widows/blob/main/3.%20Networks/2nd%20gephi%20example2.png) 
+The 2nd regiment network looks like this on Gephi. [2nd regiment network on Gephi](https://github.com/hharuna/usct-widows/blob/main/3.%20Network%20Visualizations/2nd%20gephi%20example2.png) 
 
-The 33rd regiment looks like this on Gephi. ![33rd regiment network on Gephi](https://github.com/hharuna/usct-widows/blob/main/3.%20Networks/33rd%20gephi%20example2.png).
+The 33rd regiment looks like this on Gephi. [33rd regiment network on Gephi](https://github.com/hharuna/usct-widows/blob/main/3.%20Network%20Visualizations/33rd%20gephi%20example2.png).
 
 #### Network Key
 - The 2nd and 33rd regiment [directed networks](https://mathinsight.org/definition/directed_graph) focuses on the [weighting](https://www.sciencedirect.com/topics/computer-science/weighted-graph) of the edges. Edges from attorneys are weighted at 1, edges from testifiers are weighted at 3, edges from late husbands are weighted at 5. Nodes with the highest degree value (the number of edges directed to or from a node) are colored in darker green, with the color continusly changigng from dark to light based on degree value.
